@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/datafiles/scenes/arone.unity
+  isLoaded: 1
+  isActive: 1
